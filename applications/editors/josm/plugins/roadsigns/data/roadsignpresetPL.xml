@@ -1432,6 +1432,19 @@
 	>
 </sign>
 
+<sign ref="PL:D-51a" name="automatyczna kontrola średniej prędkości" pl.name="automatyczna kontrola średniej prędkości"
+	long_name=""
+	pl.long_name="Znak stosuje się w celu poinformowania kierujących pojazdami o początku odcinka drogi, na którym średnia prędkość jazdy jest kontrolowana i rejestrowana przez stacjonarne urządzenie rejestrujące.;"
+	>
+</sign>
+
+<sign ref="PL:D-51b" name="koniec automatycznej kontroli średniej prędkości" pl.name="koniec automatycznej kontroli średniej prędkości"
+	long_name=""
+	pl.long_name="Znak stosuje się w celu poinformowania kierujących pojazdami o  końcu odcinka drogi, na którym średnia prędkość jazdy jest kontrolowana
+i rejestrowana przez stacjonarne urządzenie rejestrujące.;"
+	>
+</sign>	
+
 <sign ref="PL:D-52" name="strefa ruchu" pl.name="strefa ruchu"
 	long_name=""
 	pl.long_name="Stosuje się w celu oznakowania strefy ruchu. Znak ten umieszcza się na początku strefy ruchu na wszystkich drogach droprowadzających do niej ruch. Decyzję o ustaleniu takiej strefy podejmuje zarządca (czyli właściciel) terenu, na którym położona jest strefa ruchu. W strefie ruchu stosuje się znaki takie jak na drogach wewnętrznych.;"
@@ -1444,6 +1457,17 @@
 	>
 </sign>
 
+<sign ref="PL:D-54" name="strefa czystego transportu" pl.name="strefa czystego transportu"
+	long_name=""
+	pl.long_name="Stosuje się w celu wskazania granicy strefy czystego transportu. Znak ten umieszcza się na wszystkich wjazdach do strefy czystego transportu.;"
+	>
+</sign>	
+
+<sign ref="PL:D-55" name="oniec strefy czystego transportu" pl.name="koniec strefy czystego transportu"
+	long_name=""
+	pl.long_name="Stosuje się w celu wskazania wyjazdu ze strefy czystego transportu. Znak ten umieszcza się na wszystkich wyjazdach ze strefy czystego transportu.;"
+	>
+</sign>	
 
 <sign ref="PL:T-1[$val]" id="PL:T-1" name="tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego" pl.name="tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego"
 	supplementary="yes"
